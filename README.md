@@ -17,7 +17,6 @@ https://github.com/user-attachments/assets/8527326a-57f0-4faf-ac97-d55a05239c34
 **Failure View** <br/>
 
 
-
 https://github.com/user-attachments/assets/a05d9162-9d50-47f2-9182-c47bd9e6dae5
 
 
@@ -27,6 +26,10 @@ https://github.com/user-attachments/assets/a05d9162-9d50-47f2-9182-c47bd9e6dae5
   </video>
 </div>
 <br/>
+
+## Published Link: https://tvsjobby.ccbp.tech/
+
+### Credentials: rahul, rahul@2021
 
 ### Design Files
 
